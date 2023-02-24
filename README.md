@@ -1,7 +1,7 @@
 
 # [ewwgene.github.io](https://ewwgene.github.io/)
 ## NEFT. _WINTER-2018.03._
-![[NEFT](/100.jpg)](https://ewwgene.github.io/NEFT/Carousel)<a href="https://ewwgene.github.io/NEFT/Carousel/#101"><img src="https://ewwgene.github.io/NEFT/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/NEFT/Carousel/#102"><img src="https://ewwgene.github.io/NEFT/102.jpg" height="66"></a> <a href="https://ewwgene.github.io/NEFT/Carousel/#111"><img src="https://ewwgene.github.io/NEFT/111.jpg" height="66"></a> 
+[![NEFT](/100.jpg)](https://ewwgene.github.io/NEFT/Carousel)<a href="https://ewwgene.github.io/NEFT/Carousel/#101"><img src="https://ewwgene.github.io/NEFT/101.jpg" height="66"></a> <a href="https://ewwgene.github.io/NEFT/Carousel/#102"><img src="https://ewwgene.github.io/NEFT/102.jpg" height="66"></a> <a href="https://ewwgene.github.io/NEFT/Carousel/#111"><img src="https://ewwgene.github.io/NEFT/111.jpg" height="66"></a> 
 <br>
 **Overview**
  проверка [SLIT-SCAN_PHOTOGRAPHY](https://en.wikipedia.org/wiki/Slit-scan_photography)
