@@ -1,6 +1,6 @@
 
-# [ewwgene.github.io](https://ewwgene.github.io/)
-### [NEFT. — _DESIGN SERIES._](https://ewwgene.github.io/NEFT)
+# [ewwgene.github.io /](https://ewwgene.github.io/) [NEFT /](https://ewwgene.github.io/NEFT)
+
 <a id="100"></a> ![100.jpg](https://ewwgene.github.io/NEFT/100.jpg)
 <a id="101"></a> ![101.jpg](https://ewwgene.github.io/NEFT/101.jpg)
 <a id="102"></a> ![102.jpg](https://ewwgene.github.io/NEFT/102.jpg)
@@ -12,3 +12,5 @@
 <a id="309m"></a> ![309.jpg](https://ewwgene.github.io/NEFT/Making/309.jpg)
 <a id="300"></a> ![300.jpg](https://ewwgene.github.io/NEFT/300.jpg)
 
+
+### [ABOUT/](https://ewwgene.github.io/) 
